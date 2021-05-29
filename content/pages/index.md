@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Authentic Ayurvedic Treatment in Kerala
     content: >-
-      With 30 years of experience, we provide a holistic marma treatment for ailments like disc prolapse and cervical spondylosis
+      We provide specialized Ayurvedic treatment for ortho, neuro, and muscular ailments, tailored according to the nature of the illness
     actions:
       - label: Contact us
         url: /contact
@@ -20,11 +20,11 @@ sections:
     #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
     #   quis lorem malesuada luctus.
     features:
-      - title: Experts team at Marma Chikitsa
+      - title: Expertise in Marma Chikitsa
         image: images/hand-press.jpg
         image_alt: App preview on a phone and tablet
         content: >-
-          With 30 years of experience, we provide a holistic marma treatment for ailments like disc prolapse and cervical spondylosis
+          With over 30 years of experience, our team of doctors and therapists under the leadership Dr. T. D. Bose have developed a systematic Ayurvedic course of treatments for various disorders
         actions:
           - label: More about our team
             url: /features
@@ -32,11 +32,11 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Something about our treatments
+      - title: Our treatments
         image: images/back-press.jpg
         image_alt: App preview on a phone and tablet
         content: >-
-          We specialize in treatments of ailments such as disc prolapse and cervical spondylosis
+          We provide authentic treatments for vertibral ailments such as disc prolapse, disc hernation, disc bulge at various levels. Our treatment is considered widely as an alternative for surgery for these complaints
         actions:
           - label: More on our treatments
             url: /features
