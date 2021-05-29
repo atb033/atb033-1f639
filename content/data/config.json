@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "palette": "green",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/logo.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -14,22 +14,32 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "About Us",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Treatments",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Testimonials",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Gallery",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "label": "FAQ",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "label": "Contact Us",
                 "url": "/signup",
                 "style": "primary"
             }
@@ -39,34 +49,49 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/logo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Agasthya Ayurvedic Medical Center"
             },
             {
                 "type": "footer_nav",
                 "title": "Company",
                 "nav_links": [
                     {
+                        "label": "Home",
+                        "url": "/",
+                        "style": "link"
+                    },
+                    {
                         "label": "About Us",
-                        "url": "/about",
+                        "url": "/features",
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
-                        "url": "/blog",
+                        "label": "Treatments",
+                        "url": "/pricing",
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "Testimonials",
+                        "url": "/style-guide",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Gallery",
+                        "url": "/style-guide",
+                        "style": "link"
+                    },
+                    {
+                        "label": "FAQ",
+                        "url": "/style-guide",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Contact Us",
                         "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
+                        "style": "primary"
                     }
                 ]
             },
@@ -75,27 +100,27 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
+                        "label": "Facebook",
+                        "url": "https://facebook.com/",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "twitter",
+                        "icon": "facebook",
                         "icon_position": "left"
                     },
                     {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "linkedin",
+                        "icon": "instagram",
                         "icon_position": "left"
                     },
                     {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
+                        "label": "Youtube",
+                        "url": "https://youtube.com/",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "github",
+                        "icon": "youtube",
                         "icon_position": "left"
                     }
                 ]

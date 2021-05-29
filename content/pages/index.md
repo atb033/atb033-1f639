@@ -103,14 +103,14 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Agasthya Ayurvedic Medical Center
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Agasthya Ayurvedic Medical Center
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
@@ -122,7 +122,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Agasthya Ayurvedic Medical Center
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
