@@ -8,7 +8,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2017-03-26'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/hand-press.jpg
 seo:
   title: Release Notes - Azimuth Improvements and New Integrations
   description: >-
