@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-01-03'
 thumb_image: images/back-press.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/back-press.jpg
+image: 
 image_alt: A group of people working in a cafe
 seo:
   title: Sarvanga Abhayangam
@@ -41,7 +41,12 @@ seo:
 layout: post
 ---
 
-## What is Sarvanga Abhyangam?
+## 
+
+<iframe width="1680" height="690" 
+  src="https://www.youtube.com/embed/IGnQc5TsPZU" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sarvanga Abhyangam is a marma massage technique involving the application of medicated oil all over the body with a specific pressure at each marma point. The pressure applied depends on the nature of the ailment as well as the point of application. The combined action of the medicines, temperature, and the force applied at the marma points removes blocks in energy channels called shrotas and ameliorates vata dosha.
 
